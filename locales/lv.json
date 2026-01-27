@@ -1,80 +1,94 @@
 {
-  "meta": {
-    "title": "Premium Auto Detailing - Rīga",
-    "description": "Profesionāli auto tīrīšanas un kopšanas pakalpojumi Rīgas centrā"
-  },
   "header": {
-    "title": "Premium Auto Detailing",
-    "subtitle": "Profesionāli tīrīšanas pakalpojumi Rīgā"
+    "title": "Premium Auto Kopšana",
+    "subtitle": "Profesionāls auto kopšanas serviss Rīgā"
+  },
+  "wizard": {
+    "whatDoYouNeed": "Ko Jūsu auto vajag?",
+    "fullDetail": "Pilna Apkope",
+    "fullDetailDesc": "Pilna iekšējā un ārējā",
+    "interior": "Tikai Salons",
+    "interiorDesc": "Dziļa iekšējā tīrīšana",
+    "exterior": "Tikai Ārējā",
+    "exteriorDesc": "Mazgāšana, pulēšana un aizsardzība",
+    "quickService": "Ātrais Serviss",
+    "quickServiceDesc": "Nelieli darbi un papildinājumi",
+    "selectServices": "Izvēlieties Pakalpojumus",
+    "selectServicesDesc": "Izvēlieties, kas jums nepieciešams",
+    "addExtras": "Pievienot papildinājumus (neobligāti):",
+    "pickupDelivery": "Saņemšana un Piegāde",
+    "bookingDetails": "Rezervācijas Detaļas",
+    "bookingDetailsDesc": "Kad mums jāapkopj jūsu auto?",
+    "reviewOrder": "Pārskatiet Pasūtījumu",
+    "reviewOrderDesc": "Viss izskatās labi?",
+    "appointmentDetails": "Vizītes Detaļas",
+    "back": "Atpakaļ",
+    "next": "Tālāk",
+    "processing": "Apstrādā...",
+    "step1": "Kategorija",
+    "step2": "Pakalpojumi",
+    "step3": "Detaļas",
+    "step4": "Maksājums"
   },
   "services": {
-    "title": "Izvēlieties pakalpojumus",
-    "fullCar": "Pilna auto detailing pakete",
-    "fullCarDesc": "Pilnīga iekšējā un ārējā tīrīšana",
-    "interior": "Salona pakalpojumi",
-    "exterior": "Ārējie pakalpojumi",
-    "additional": "Papildu pakalpojumi",
-    "delivery": "Saņemšana un piegāde"
+    "title": "Profesionāla Auto Kopšana",
+    "fullCar": "Pilna Auto Pakete",
+    "fullCarDesc": "Pilna salona tīrīšana un aizsardzība",
+    "interior": "Salona Pakalpojumi",
+    "exterior": "Ārējie Pakalpojumi",
+    "additional": "Papildu Pakalpojumi",
+    "delivery": "Saņemšana un Piegāde",
+    "pickup": "Auto Saņemšana",
+    "deliveryService": "Auto Piegāde"
   },
   "items": {
-    "fullCar": "Pilna auto detailing pakete",
-    "frontSeats": "Priekšējo sēdekļu dziļā tīrīšana",
-    "backSeats": "Aizmugurējo sēdekļu dziļā tīrīšana",
-    "ceiling": "Griesti / Jumta apšuvums",
-    "trunk": "Bagāžnieka tīrīšana",
-    "safetyBelts": "Drošības jostu tīrīšana",
-    "carpets": "Grīdas paklāji un paklājiņi",
-    "dashboard": "Panelis un konsole",
-    "doorPanels": "Durvju paneļi",
-    "frontLights": "Priekšējo lukturu pulēšana",
-    "backLights": "Aizmugurējo lukturu atjaunošana",
-    "rustCleaning": "Rūsas traipu tīrīšana",
-    "exteriorWash": "Ārējā mazgāšana un vasks",
-    "wheelsCleaning": "Riteņu un riepu tīrīšana",
-    "windowTinting": "Logu pulēšana",
-    "engineBay": "Motora nodalījuma tīrīšana",
-    "pickup": "Auto saņemšana (Rīgā)",
-    "delivery": "Auto piegāde (Rīgā)"
+    "fullCar": "Pilna Auto Kopšana (Salons)",
+    "frontLights": "Priekšējo Lukturu Tīrīšana",
+    "backLights": "Aizmugurējo Lukturu Tīrīšana",
+    "safetyBelts": "Drošības Jostu Tīrīšana",
+    "seats": "Sēdekļu Dziļā Tīrīšana",
+    "ceiling": "Griesti Tīrīšana",
+    "trunk": "Bagāžnieka Tīrīšana",
+    "rustCleaning": "Rūsas Traipu Tīrīšana",
+    "lightsPolishing": "Lukturu Pulēšana",
+    "exteriorWash": "Ārējā Mazgāšana",
+    "waxing": "Premium Vaskošana",
+    "pickup": "Auto Saņemšana",
+    "delivery": "Auto Piegāde"
   },
   "booking": {
-    "title": "Rezervējiet laiku",
-    "selectDate": "Izvēlieties datumu",
-    "selectTime": "Izvēlieties laiku",
+    "title": "Pierakstīties",
+    "selectDate": "Izvēlieties Datumu",
+    "selectTime": "Izvēlieties Laiku",
     "morning": "Rīts (9:00 - 12:00)",
-    "afternoon": "Pēcpusdiena (12:00 - 15:00)",
-    "evening": "Vakars (15:00 - 18:00)"
+    "afternoon": "Pēcpusdiena (12:00 - 17:00)",
+    "evening": "Vakars (17:00 - 20:00)"
   },
   "contact": {
-    "title": "Jūsu kontaktinformācija",
-    "name": "Pilns vārds",
-    "email": "E-pasta adrese",
-    "phone": "Tālruņa numurs",
-    "carModel": "Auto marka un modelis",
-    "licensePlate": "Reģistrācijas numurs",
-    "notes": "Papildu piezīmes",
-    "notesPlaceholder": "Jebkādi īpaši lūgumi vai norādījumi..."
+    "title": "Kontaktinformācija",
+    "name": "Jūsu Vārds",
+    "email": "E-pasta Adrese",
+    "phone": "Telefona Numurs",
+    "carModel": "Auto Modelis",
+    "licensePlate": "Numura Zīme",
+    "notes": "Papildu Piezīmes",
+    "notesPlaceholder": "Īpašas vēlmes vai piezīmes..."
   },
   "summary": {
-    "title": "Pasūtījuma kopsavilkums",
+    "title": "Pasūtījuma Kopsavilkums",
+    "selectedServices": "Izvēlētie Pakalpojumi",
+    "noServices": "Nav izvēlēti pakalpojumi",
     "total": "Kopā",
-    "checkout": "Turpināt uz apmaksu",
-    "noServices": "Lūdzu, izvēlieties vismaz vienu pakalpojumu"
+    "checkout": "Maksāt Tagad"
   },
   "location": {
-    "title": "Mūsu atrašanās vieta",
-    "address": "Brīvības iela 40, Centra rajons, Rīga, LV-1050",
-    "hours": "P-S: 9:00 - 18:00",
+    "title": "Mūsu Atrašanās Vieta",
+    "address": "Brīvības iela 40, Rīga, Latvija",
+    "hours": "Atvērts katru dienu 9:00 - 20:00",
     "phone": "+371 22532304",
     "email": "segarsj179@gmail.com"
   },
   "footer": {
-    "copyright": "© 2026 Premium Auto Detailing. Visas tiesības aizsargātas.",
-    "privacy": "Privātuma politika",
-    "terms": "Lietošanas noteikumi"
-  },
-  "language": {
-    "en": "English",
-    "lv": "Latviešu",
-    "ru": "Русский"
+    "copyright": "© 2024 Premium Auto Kopšana. Visas tiesības aizsargātas."
   }
 }

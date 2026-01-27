@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "title": "Premium Car Detailing - Riga",
+    "description": "Professional car cleaning and detailing services in Riga city center"
+  },
+  "header": {
+    "title": "Premium Car Detailing",
+    "subtitle": "Professional cleaning services in Riga"
+  },
+  "services": {
+    "title": "Select Your Services",
+    "fullCar": "Full Car Detailing Package",
+    "fullCarDesc": "Complete interior and exterior cleaning",
+    "interior": "Interior Services",
+    "exterior": "Exterior Services",
+    "additional": "Additional Services",
+    "delivery": "Pickup & Delivery"
+  },
+  "items": {
+    "fullCar": "Full Car Detailing Package",
+    "frontSeats": "Front Seats Deep Clean",
+    "backSeats": "Back Seats Deep Clean",
+    "ceiling": "Ceiling / Headliner Cleaning",
+    "trunk": "Trunk Cleaning",
+    "safetyBelts": "Safety Belts Cleaning",
+    "carpets": "Floor Carpets & Mats",
+    "dashboard": "Dashboard & Console",
+    "doorPanels": "Door Panels",
+    "frontLights": "Front Lights Polishing",
+    "backLights": "Back Lights Restoration",
+    "rustCleaning": "Rust Spots Cleaning",
+    "exteriorWash": "Exterior Wash & Wax",
+    "wheelsCleaning": "Wheels & Tires Cleaning",
+    "windowTinting": "Window Polishing",
+    "engineBay": "Engine Bay Cleaning",
+    "pickup": "Car Pickup (within Riga)",
+    "delivery": "Car Delivery (within Riga)"
+  },
+  "booking": {
+    "title": "Book Your Appointment",
+    "selectDate": "Select Date",
+    "selectTime": "Select Time",
+    "morning": "Morning (9:00 - 12:00)",
+    "afternoon": "Afternoon (12:00 - 15:00)",
+    "evening": "Evening (15:00 - 18:00)"
+  },
+  "contact": {
+    "title": "Your Contact Details",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "carModel": "Car Make & Model",
+    "licensePlate": "License Plate",
+    "notes": "Additional Notes",
+    "notesPlaceholder": "Any special requests or instructions..."
+  },
+  "summary": {
+    "title": "Order Summary",
+    "total": "Total",
+    "checkout": "Proceed to Payment",
+    "noServices": "Please select at least one service"
+  },
+  "location": {
+    "title": "Our Location",
+    "address": "Brīvības iela 40, Centra rajons, Rīga, LV-1050",
+    "hours": "Mon-Sat: 9:00 - 18:00",
+    "phone": "+371 22532304",
+    "email": "segarsj179@gmail.com"
+  },
+  "footer": {
+    "copyright": "© 2026 Premium Car Detailing. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "language": {
+    "en": "English",
+    "lv": "Latviešu",
+    "ru": "Русский"
+  }
+}

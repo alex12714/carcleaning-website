@@ -28,7 +28,15 @@
     "step1": "Category",
     "step2": "Services",
     "step3": "Details",
-    "step4": "Checkout"
+    "step4": "Checkout",
+    "pickupLocation": "Pickup Location",
+    "dropoffLocation": "Drop-off Location",
+    "sameAsPickup": "Same as pickup location",
+    "differentLocation": "Different location",
+    "enterAddress": "Enter address...",
+    "pickupTime": "Pickup Time",
+    "dropoffTime": "Drop-off Time",
+    "selectOnMap": "Select on map"
   },
   "services": {
     "title": "Professional Car Detailing",
@@ -43,16 +51,24 @@
   },
   "items": {
     "fullCar": "Full Car Detailing (Interior)",
+    "frontSeats": "Front Seats Deep Cleaning",
+    "backSeats": "Back Seats Deep Cleaning",
     "frontLights": "Front Lights Cleaning",
     "backLights": "Back Lights Cleaning",
     "safetyBelts": "Safety Belts Cleaning",
     "seats": "Seats Deep Cleaning",
     "ceiling": "Ceiling Cleaning",
     "trunk": "Trunk Cleaning",
+    "carpets": "Carpets Deep Cleaning",
+    "dashboard": "Dashboard Cleaning",
+    "doorPanels": "Door Panels Cleaning",
     "rustCleaning": "Rust Spots Cleaning",
     "lightsPolishing": "Lights Polishing",
-    "exteriorWash": "Exterior Wash",
+    "exteriorWash": "Exterior Wash & Wax",
     "waxing": "Premium Waxing",
+    "wheelsCleaning": "Wheels Deep Cleaning",
+    "windowTinting": "Window Tinting",
+    "engineBay": "Engine Bay Cleaning",
     "pickup": "Car Pickup",
     "delivery": "Car Delivery"
   },
@@ -79,7 +95,9 @@
     "selectedServices": "Selected Services",
     "noServices": "No services selected",
     "total": "Total",
-    "checkout": "Pay Now"
+    "checkout": "Pay Now",
+    "pickupFrom": "Pickup from",
+    "dropoffTo": "Drop-off to"
   },
   "location": {
     "title": "Our Location",

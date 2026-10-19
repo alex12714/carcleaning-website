@@ -28,7 +28,15 @@
     "step1": "Kategorija",
     "step2": "Pakalpojumi",
     "step3": "Detaļas",
-    "step4": "Maksājums"
+    "step4": "Maksājums",
+    "pickupLocation": "Saņemšanas Vieta",
+    "dropoffLocation": "Piegādes Vieta",
+    "sameAsPickup": "Tāda pati kā saņemšanas vieta",
+    "differentLocation": "Cita vieta",
+    "enterAddress": "Ievadiet adresi...",
+    "pickupTime": "Saņemšanas Laiks",
+    "dropoffTime": "Piegādes Laiks",
+    "selectOnMap": "Izvēlēties kartē"
   },
   "services": {
     "title": "Profesionāla Auto Kopšana",
@@ -43,16 +51,24 @@
   },
   "items": {
     "fullCar": "Pilna Auto Kopšana (Salons)",
+    "frontSeats": "Priekšējo Sēdekļu Dziļā Tīrīšana",
+    "backSeats": "Aizmugurējo Sēdekļu Dziļā Tīrīšana",
     "frontLights": "Priekšējo Lukturu Tīrīšana",
     "backLights": "Aizmugurējo Lukturu Tīrīšana",
     "safetyBelts": "Drošības Jostu Tīrīšana",
     "seats": "Sēdekļu Dziļā Tīrīšana",
-    "ceiling": "Griesti Tīrīšana",
+    "ceiling": "Griestu Tīrīšana",
     "trunk": "Bagāžnieka Tīrīšana",
+    "carpets": "Paklāju Dziļā Tīrīšana",
+    "dashboard": "Paneļa Tīrīšana",
+    "doorPanels": "Durvju Paneļu Tīrīšana",
     "rustCleaning": "Rūsas Traipu Tīrīšana",
     "lightsPolishing": "Lukturu Pulēšana",
-    "exteriorWash": "Ārējā Mazgāšana",
+    "exteriorWash": "Ārējā Mazgāšana un Vaskošana",
     "waxing": "Premium Vaskošana",
+    "wheelsCleaning": "Riteņu Dziļā Tīrīšana",
+    "windowTinting": "Logu Tonēšana",
+    "engineBay": "Motora Nodalījuma Tīrīšana",
     "pickup": "Auto Saņemšana",
     "delivery": "Auto Piegāde"
   },
@@ -79,7 +95,9 @@
     "selectedServices": "Izvēlētie Pakalpojumi",
     "noServices": "Nav izvēlēti pakalpojumi",
     "total": "Kopā",
-    "checkout": "Maksāt Tagad"
+    "checkout": "Maksāt Tagad",
+    "pickupFrom": "Saņemšana no",
+    "dropoffTo": "Piegāde uz"
   },
   "location": {
     "title": "Mūsu Atrašanās Vieta",
